@@ -1,0 +1,4 @@
+HTTP1.1:
+ HTTP1.1 loads the resource one after the another.If one resource cannot be loaded it will affect all other resource.
+HTTP/2:
+ In HTTP/2 we use single TCP connection to sent multiple stream of data.So no resource can block any other resource.

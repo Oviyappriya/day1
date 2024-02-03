@@ -1,0 +1,15 @@
+Write a blog about objects and its internal representation in Javascript
+Answer:
+  objects is a unordered collection of data.It is a key-value pairs
+    const obj={
+	  name:'oviya',	 
+       age:25
+	};
+    Frames           Objects
+    Global frame     object
+    obj              name "oviya"         
+                     age	  25
+
+                
+ 
+

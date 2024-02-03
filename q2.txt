@@ -1,0 +1,12 @@
+IP address:
+   IP stands for Internet Protocal
+   IP address is used for identify network in Internet.
+   It is a world wide web(WWW).
+MAC address:
+   MAC address stands for Media Access Control address
+   Local address to identify/access media on  local network.
+HTTP Method:
+    HTTP stands for Hyper Text Transfer Protocal
+    HTTP is a public network.
+    Data transfer from client and server is not secure,but in HTTPS it is very secure 
+
